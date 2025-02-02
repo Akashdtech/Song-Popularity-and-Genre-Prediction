@@ -49,4 +49,4 @@ Tools & Technologies Used:
 
 Conclusion:
 
-        This project provides actionable insights into music trends and applies machine learning to predict song popularity and classify genres. The findings can guide music recommendations, playlist generation, and            marketing strategies for streaming platforms.
+        This project provides actionable insights into music trends and applies machine learning to predict song popularity and classify genres. The findings can guide music recommendations, playlist generation, and marketing strategies for streaming platforms.
